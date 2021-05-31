@@ -1,0 +1,8 @@
+#ignore all
+*
+#except these files
+!.gitignore
+!.gitattributes
+!covid.ipynb
+!img
+!owid-covid-data.xlsx
