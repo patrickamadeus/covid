@@ -1,0 +1,1 @@
+Trying to use linear regression method for predicting total vaccinations each country 
